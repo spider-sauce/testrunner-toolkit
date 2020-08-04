@@ -22,10 +22,10 @@ const users = [
 
 const siteConfig = {
   title: 'Testrunner Toolkit Documentation', // Title for your website.
-  url: 'https://saucelabs.github.io', // Your website URL
+  url: 'https://spider-sauce.github.io', // Your website URL
   baseUrl: '/testrunner-toolkit/', // Base URL for your project */
   projectName: 'testrunner-toolkit',
-  organizationName: 'saucelabs',
+  organizationName: 'spider-sauce',
   disableHeaderTitle: true,
 
   // Used for search
